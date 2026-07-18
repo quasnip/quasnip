@@ -1,6 +1,6 @@
 # Welcome! :octocat:
 <img width="1080" height="396" alt="fitz drawing" src="https://github.com/user-attachments/assets/28faef14-8271-4e31-8127-00977d9f1f4b" />  
-__My name is Emilia.__
+**My name is Emilia**
 I'm studying for a future in assessing tech risk and compliance.  
 
 I am a business student with a background in Computer Science and fascinated by all things Cybersecurity.  
