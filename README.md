@@ -1,8 +1,9 @@
 # Welcome! :octocat:
 <img width="1080" height="396" alt="fitz drawing" src="https://github.com/user-attachments/assets/28faef14-8271-4e31-8127-00977d9f1f4b" />
-# My name is Emilia. I'm studying for a future in assessing tech risk and compliance.
+# My name is Emilia.  
+I'm studying for a future in assessing tech risk and compliance.  
 
-I am a business student with a background in Computer Science and fascinated by all things Cybersecurity.
+I am a business student with a background in Computer Science and fascinated by all things Cybersecurity.  
 My interests include niche media, mossy hikes, and black cats.  
 I make a lot of references to the 2006 Adult Swim show 12 Oz. Mouse.  
 I am originally from the Pacific Northwest but I now reside in San Diego.  
