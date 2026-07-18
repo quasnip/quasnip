@@ -1,5 +1,6 @@
 # Welcome! :octocat:
-<img width="1080" height="396" alt="fitz drawing" src="https://github.com/user-attachments/assets/28faef14-8271-4e31-8127-00977d9f1f4b" />  
+<img width="1080" height="396" alt="github header" src="https://github.com/user-attachments/assets/d8ed5377-e556-46ba-add0-3378b7888a9d" />
+
 My name is Emilia.  
 I'm studying for a future in assessing tech risk and compliance.  
 
@@ -9,7 +10,7 @@ I make a lot of references to the 2006 Adult Swim show 12 Oz. Mouse.
 I am originally from the Pacific Northwest but I now reside in San Diego.  
 
 ## Thanks for visiting!
-I am early in my journey of becoming CISA certified, so if you are an IT auditor or do any kind of of risk analysis, please connect with me on [LinkedIn](https://www.linkedin.com/in/emilia-nadirov/)!
+I am early in my journey of becoming CISA certified, so if you are an IT auditor or do any kind of of risk analysis, please [connect with me](https://www.linkedin.com/in/emilia-nadirov/)!
 <!--
 **quasnip/quasnip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
