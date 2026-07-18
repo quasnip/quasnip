@@ -3,13 +3,12 @@
 # My name is Emilia. I'm studying for a future in assessing tech risk and compliance.
 
 I am a business student with a background in Computer Science and fascinated by all things Cybersecurity.
-My interests include niche media, mossy hikes, and black cats. 
-I make a lot of references to the 2006 Adult Swim show 12 Oz. Mouse. 
-I am originally from the Pacific Northwest but I now reside in San Diego.
+My interests include niche media, mossy hikes, and black cats.  
+I make a lot of references to the 2006 Adult Swim show 12 Oz. Mouse.  
+I am originally from the Pacific Northwest but I now reside in San Diego.  
 
 ## Thanks for visiting!
-I am early in my journey of becoming CISA certified, so if you are an IT auditor or do any kind of of risk analysis, please connect with me on LinkedIn!
-https://www.linkedin.com/in/emilia-nadirov/
+I am early in my journey of becoming CISA certified, so if you are an IT auditor or do any kind of of risk analysis, please connect with me on [LinkedIn](https://www.linkedin.com/in/emilia-nadirov/)!
 <!--
 **quasnip/quasnip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
