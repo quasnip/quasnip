@@ -1,5 +1,16 @@
-## Hi there 👋
+# Welcome! :octocat:
+## My name is Emilia and I'm studying for a future in assessing tech risk and compliance.
+<img width="1080" height="396" alt="fitz drawing" src="https://github.com/user-attachments/assets/28faef14-8271-4e31-8127-00977d9f1f4b" />
 
+Fun Facts:
+I am a business student with a background in Computer Science and fascinated by all things Cybersecurity.
+My interests include niche media, mossy hikes, and black cats. 
+I make a lot of references to the 2006 Adult Swim show 12 Oz. Mouse. 
+I am originally from the Pacific Northwest but I now reside in San Diego.
+
+## Thanks for visiting!
+I am early in my journey of becoming CISA certified, so if you are an IT auditor or do any kind of of risk analysis, please connect with me on LinkedIn!
+https://www.linkedin.com/in/emilia-nadirov/
 <!--
 **quasnip/quasnip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
